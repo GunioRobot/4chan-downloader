@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>4chan downloader</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/downloader.class</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/scripts/4chan%20downloader/downloader.class</locationURI>
+		</link>
+		<link>
+			<name>src/gui.class</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/scripts/4chan%20downloader/gui.class</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
